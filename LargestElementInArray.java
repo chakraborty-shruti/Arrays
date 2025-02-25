@@ -22,8 +22,7 @@ class LargestElementInArray {
         }
         return -1;
     }
-    public static void main(String[] args) throws IOException
-    {
+    public static void main(String[] args){
         int arr[] = { 5, 8, 20, 15 };
         System.out.println("Largest in given array is "+getlargest(arr, 4));
     }
