@@ -5,7 +5,7 @@ import java.lang.*;
 import java.math.*;
 import java.util.*;
 
-class GFG {
+class LargestElementInArray {
     static int getlargest(int arr[], int n)
     {
         for (int i = 0; i < n; ++i) {
