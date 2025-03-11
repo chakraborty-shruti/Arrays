@@ -1,4 +1,4 @@
-//Maximum Sum Subarray - Kadane's algorithm
+//Maximum Sum Subarray
 //O(n^2 ) time and O(1)space
 
 class Test{
